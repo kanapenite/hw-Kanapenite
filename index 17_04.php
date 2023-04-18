@@ -1,6 +1,4 @@
 <?php
-echo '<br>';
-echo '<br>';
 $str2='<!DOCTYPE html>
 <html lang="en">
 <head>
