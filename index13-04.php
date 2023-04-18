@@ -103,7 +103,7 @@ echo '<b><br> количество гласных </b>' . $sum1. ' шт. <br>';
 $k=0;
 //$k=count($arr6);
 foreach ($arr6 as $key=>$word){
-        if ($word != " "){
+        if ($word != '' and $word != ' '){
         $k=$k+1;
         }
 }
