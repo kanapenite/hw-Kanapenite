@@ -112,7 +112,7 @@ if (empty($_SESSION['time'])) {
     $_SESSION['time'] = time();
 } 
 echo 'Время входа на сайт '.$_SESSION['time'].'<br>';
-echo 'Вы зашои на сайт  '. time() - $_SESSION['time'] . 'сек. назад';
+echo 'Вы зашли на сайт  '. time() - $_SESSION['time'] . 'сек. назад';
 echo'<br>';
 echo'<br>';
 ?>
