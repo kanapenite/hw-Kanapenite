@@ -1,0 +1,2 @@
+a:7:{i:0;s:73:"There are many ways of traveling — by train, by plane, by ship, on foot";i:3;s:66:" If you want to be closer to nature, you may choose a trip on foot";i:4;s:45:" 
+Lots of people nowadays live in big cities";i:5;s:110:" So it’s natural that they want to have a holiday by the sea or in mountains with nothing to do but relaxing";i:6;s:34:" There is other sort of travellers";i:7;s:49:" They want to visit as many countries as possible";i:8;s:72:" So after exploring Europe and North America they go to exotic countries";}

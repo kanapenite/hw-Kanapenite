@@ -1,0 +1,2 @@
+a:4:{i:0;s:35:"Travelling is very popular nowadays";i:1;s:76:" A lot of people travel to different countries if they have such opportunity";i:2;s:115:" Travelling allows you to get interesting experience, learn about people’s life in other countries and continents";i:3;s:75:"
+There are many ways of traveling — by train, by plane, by ship, on foot";}
