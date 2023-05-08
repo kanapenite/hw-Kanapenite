@@ -10,10 +10,10 @@ setcookie('colour',$name);
 		  content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
 	<meta http-equiv="X-UA-Compatible" content="ie=edge">
     <?php
-    if ($_COOKIE['colour']="beige") { 
+    if ($_COOKIE['colour']==="beige") { 
         echo'<link rel="stylesheet" href="styles/styles11.css">';
     }
-    elseif($_COOKIE['colour']="dark"){
+    elseif($_COOKIE['colour']==="dark"){
         echo '<link rel="stylesheet" href="styles/styles1.css">';
     }
     else {
