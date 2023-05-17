@@ -1,3 +1,6 @@
+<?php
+session_start();
+?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -11,7 +14,6 @@
 <div class="one">
 <h1>Страница авторизации</h1>
 <?php
-session_start();
 $hostname='localhost';
 $username='Olga';
 $password='5700';
